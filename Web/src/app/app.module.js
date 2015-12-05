@@ -4,7 +4,7 @@
     angular
         .module('app', [
             'quartz',
-            'ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'ngMessages', 'ngMaterial',
+            'ngAnimate', 'ngCookies', 'ngSanitize', 'ngMessages', 'ngMaterial',
             'ui.router', 'pascalprecht.translate', 'LocalStorageModule', 'angularMoment', 'md.data.table',
             //'seed-module',
             // uncomment above to activate the example seed module
